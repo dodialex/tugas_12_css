@@ -1,0 +1,51 @@
+header {
+  background: black;
+}
+
+header ul {
+  overflow: auto;
+}
+
+header ul li {
+  float: left;
+  list-style-type: none;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+body {
+  background-color: cyan;
+}
+
+.slider-img {
+  height: 600px;
+  width: 1300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.image {
+  height: 400px;
+  width: 300px;
+}
+
+.apa {
+  padding-top: 10px;
+  column-rule: 2px solid black;
+  column-width: 300px;
+  height: 400px;
+
+}
+
+
+.footer {
+  background: black;
+  color: white;
+  text-align: center;
+  padding-bottom: 10px;
+}
